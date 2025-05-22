@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title>Astrology and Lifestyle</title>
+        <link rel="icon" type="image/x-icon" href="star.png">
+        <link rel="stylesheet" href="Page Style.css">
+        <link rel="stylesheet" href="Navigation.css">
+    </head>
+    <body style="background-image: url('wolf.jpg'); background-attachment: fixed; background-size: 100%;">
+        <div class="header">
+            <div class="header-content">
+                <div class="title">Astrology and Lifestyle</div>
+                <div class="button-container">
+                    <button onclick="document.location='Home.html'" class="button">HOME</button>
+                    <button onclick="document.location='About.html'" class="button">ABOUT</button>
+                </div>
+            </div>
+        </div>
+        <div class="nav-container">
+            <ul>
+            <li><a href="default.asp">Home</a></li>
+            <li><a href="news.asp">News</a></li>
+            <li><a href="contact.asp">Contact</a></li>
+            <li><a href="about.asp">About</a></li>
+            </ul> 
+        </div>
+        <div class="city1">
+            <h1>Welcome Lifers</h1>
+            <p>This is a paragraph.</p>
+        </div>
+         <div class="city2">
+            <h1>Welcome Lifers</h1>
+            <p>This is a paragraph.</p>
+        </div>
+        <div class="city3">
+            <h1>Welcome Lifers</h1>
+            <p>This is a paragraph.</p>
+        </div>
+         <div class="city4">
+            <h1>Welcome Lifers</h1>
+            <p>This is a paragraph.</p>
+        </div>
+        <div class="city5">
+            <h1>Welcome Lifers</h1>
+            <p>This is a paragraph.</p>
+        </div>
+         <div class="city6">
+            <h1>Welcome Lifers</h1>
+            <p>This is a paragraph.</p>
+        </div>
+        <div class="footer">This is a Heading1</div>
+    </body>
+</html>
